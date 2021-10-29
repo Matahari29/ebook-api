@@ -13,10 +13,10 @@ class AuthController extends Controller
         return
         [
             "NIP" => 290956543,
-            "Nama" => "Ermayy",
-            "gender" => "Perempuan",
+            "Nama" => "Matahari",
+            "gender" => "Laki-laki",
             "phone" => 6288232276269,
-            "class" => "kk4 B RPL 2"
+            "class" => "kk4 B RPL 4"
         ];
     }
 }
